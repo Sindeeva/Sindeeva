@@ -13,4 +13,4 @@
 • Business plan development
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/natalia-sindeeva/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/natalia-sindeeva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/people/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F-%D0%A1%D0%B8%D0%BD%D0%B4%D0%B5%D0%B5%D0%B2%D0%B0/100002275543446/)  
